@@ -4,33 +4,19 @@
 采用python编写，包含了nuclei扫描器的基本常用功能。整体界面简洁，可以中文显示漏洞名称。只支持Windows系统。
 ## 工作目录
 │ ─ nuclei.exe
-
 │ ─ Nuclei_GUI-v1.0.exe
-
 │ ─ url.txt
-
 │ ─ poc
-
 │    | ─ poc_20240326212835.yaml
-
 │    | ─ poc_20240408172441.yaml
-
 │    | ─ ……
-
 │ ─ work
-
 │    | ─ config.ini
-
 │    | ─ poc_list.xlsx
-
 │    | ─ random_UA.txt
-
 │    | ─ result.txt
-
 │    | ─ result_new.txt
-
 │    | ─ result_zh.txt
-
 │    | ─ validate_API_Key.vbs
 
 ## 使用指南
