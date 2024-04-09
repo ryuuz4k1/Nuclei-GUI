@@ -12,7 +12,7 @@
 
 4、选择POC功能和扫描结果表格中的内容，可通过ctrl或shift进行多选
 
-5、使用过程中如遇bug或有宝贵建议，请提交Issues
+5、使用过程中如遇bug或有宝贵建议，请提交[Issues](https://github.com/ryuuz4k1/Nuclei-GUI/issues)
 
 ## 待改进
 1、如果扫描结果数量较大，工具可能会有略微卡顿
