@@ -10,7 +10,7 @@
 
 3、扫描结果中显示的漏洞名称为yaml文件中的name字段，如想显示id字段，可将id字段值复制到name字段
 
-4、选择POC功能和扫描结果表格中的内容，可通过ctrl或shift进行多选
+4、选择POC功能和扫描结果表格中的内容，可通过按住ctrl或shift键进行多选
 
 5、使用过程中如遇bug或有宝贵建议，请提交[Issues](https://github.com/ryuuz4k1/Nuclei-GUI/issues)
 
