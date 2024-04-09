@@ -20,10 +20,15 @@
 │    | ─ validate_API_Key.vbs
 ## 使用指南
 1、首先需要下载nuclei.exe本体程序，将其与本工具置于同一目录下。下载链接[https://github.com/projectdiscovery/nuclei/releases](https://github.com/projectdiscovery/nuclei/releases)
+
 2、将yaml格式的poc文件存储到poc文件夹内
+
 3、扫描结果中显示的漏洞名称为yaml文件中的name字段，如想显示id字段，可将id字段值复制到name字段
+
 4、选择POC功能和扫描结果表格中的内容，可通过ctrl或shift进行多选
+
 5、使用过程中如遇bug或有宝贵建议，请提交Issues
+
 ## 待改进
 1、如果扫描结果数量较大，工具可能会有略微卡顿
 2、选择POC功能，计划增加poc搜索、筛选等功能，更加方便查找选择poc
